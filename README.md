@@ -25,7 +25,7 @@
 
 # Common conda commands:
     
-    ## 1. activate env:
+    activate env:
         ```
         conda activate env_name
         ```
