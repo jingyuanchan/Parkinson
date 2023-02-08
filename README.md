@@ -25,23 +25,23 @@
 
 # Common conda commands:
 
-### Activate env:
+### Activate Environment:
 ```
 conda activate env_name
 ```
-### deactivate env(make sure ur in actiavted env):
-        ```
-        conda decativate
-        ``` 
-    3. see all installed conda env:
-        ```
-        conda info --envs
-        ``` 
-    4. see all pakages installed within a env:
-        ```
-        conda list
-        ``` 
-    5. install arbitrary packages:
-        ```
-        pip install package_name
-        ``` 
+### Deactivate Environment(make sure ur in actiavted env):
+```
+conda decativate
+``` 
+### List All Created Conda Environment:
+```
+conda info --envs
+``` 
+### List All Pakages Installed within a Environment:
+```
+conda list
+``` 
+### Install Arbitrary Packages:
+```
+pip install package_name
+``` 
