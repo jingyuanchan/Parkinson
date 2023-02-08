@@ -24,7 +24,8 @@
     6. Run flawed-clean.py for both retrimmed FW/BW videos
 
 # Common conda commands:
-    1. activate env:
+    
+    ## 1. activate env:
         ```
         conda activate env_name
         ```
