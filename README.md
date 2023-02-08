@@ -1,4 +1,4 @@
-# Folder Structure
+## Folder Structure
 
 ``` 
 ├── csv:                     where all .csv format files store 
@@ -15,7 +15,7 @@
 ├── stat_analysis.ipynb:     run some stat analysis 
 
 ```
-# File Execution
+## File Execution
     1. Run check_annoation.py 
     2. Run multi_video_trim.py
     3. Run combine_vid.py 
@@ -23,7 +23,7 @@
     5. Run retrim.py for both FW/BW videos.
     6. Run flawed-clean.py for both retrimmed FW/BW videos
 
-# Common conda commands:
+## Common conda commands:
 
 ### Activate Environment:
 ```
